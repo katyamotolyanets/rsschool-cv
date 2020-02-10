@@ -1,4 +1,4 @@
 ## Resume
 
-** First Name, Last Name
+**First Name, Last Name**
 Ekaterina Motolyanets
