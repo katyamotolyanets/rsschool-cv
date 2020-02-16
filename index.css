@@ -1,0 +1,19 @@
+body {
+	background-color:  salmon;
+	color: crimson;
+	font-family: "Helvetica", "Arial", sans-serif;
+}
+div {
+	text-align: center;
+}
+.photo {
+	
+	border-radius: 20px;
+}
+h1 , h2 {
+	text-align: center;
+}
+p , ul {
+padding-left: 100px;
+}
+
